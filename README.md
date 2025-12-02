@@ -49,7 +49,7 @@ The project's success is driven by a specialized team, with roles clearly define
 | **Menna Allah Sabry Mourad** | Visual Identity Designer | Logo creation, color palette selection, and development of the formal Visual Usage Guide. |
 | **Mohamed Samy Mohamed Serag** | Data & Illustrative Designer | Designing the robot's operational schematics and creating data-driven impact infographics. |
 | **Sara Abdel Basit Mohamed** | Model & Application Designer | Creating realistic mockups, designing promotional assets, and detailing robot structural components. |
-| **Taqwa Ezzeldin Ahmed** | Content & Presentation Coordinator | Writing all project content, compiling the final presentation, and ensuring professional formatting. |
+| **Taka Ezzeldin Ahmed** | Content & Presentation Coordinator | Writing all project content, compiling the final presentation, and ensuring professional formatting. |
 
 ---
 
